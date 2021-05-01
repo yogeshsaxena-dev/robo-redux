@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/robo-redux/static/css/main.2a6225f5.chunk.css",
+    "main.js": "/robo-redux/static/js/main.e07226da.chunk.js",
+    "main.js.map": "/robo-redux/static/js/main.e07226da.chunk.js.map",
+    "runtime-main.js": "/robo-redux/static/js/runtime-main.f6c47f47.js",
+    "runtime-main.js.map": "/robo-redux/static/js/runtime-main.f6c47f47.js.map",
+    "static/css/2.ac18de59.chunk.css": "/robo-redux/static/css/2.ac18de59.chunk.css",
+    "static/js/2.c7b8b75f.chunk.js": "/robo-redux/static/js/2.c7b8b75f.chunk.js",
+    "static/js/2.c7b8b75f.chunk.js.map": "/robo-redux/static/js/2.c7b8b75f.chunk.js.map",
+    "index.html": "/robo-redux/index.html",
+    "precache-manifest.6855c48a4f1fe2bc9609c6d4f43cc1a5.js": "/robo-redux/precache-manifest.6855c48a4f1fe2bc9609c6d4f43cc1a5.js",
+    "service-worker.js": "/robo-redux/service-worker.js",
+    "static/css/2.ac18de59.chunk.css.map": "/robo-redux/static/css/2.ac18de59.chunk.css.map",
+    "static/css/main.2a6225f5.chunk.css.map": "/robo-redux/static/css/main.2a6225f5.chunk.css.map",
+    "static/js/2.c7b8b75f.chunk.js.LICENSE.txt": "/robo-redux/static/js/2.c7b8b75f.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/robo-redux/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f6c47f47.js",
+    "static/css/2.ac18de59.chunk.css",
+    "static/js/2.c7b8b75f.chunk.js",
+    "static/css/main.2a6225f5.chunk.css",
+    "static/js/main.e07226da.chunk.js"
+  ]
+}
